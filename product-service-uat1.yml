@@ -1,3 +1,0 @@
-endpoint:
-  customer:
-    customers: http:/newpoint.com/customer-list
